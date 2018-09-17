@@ -1,0 +1,15 @@
+current directory: /mnt/c/PROJECTS/RUBY/StockTracker/vendor/cache/ruby/2.3.0/gems/websocket-driver-0.7.0/ext/websocket-driver
+/usr/share/rvm/rubies/ruby-2.3.4/bin/ruby -r ./siteconf20180917-520-j1i74o.rb extconf.rb
+creating Makefile
+
+current directory: /mnt/c/PROJECTS/RUBY/StockTracker/vendor/cache/ruby/2.3.0/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /mnt/c/PROJECTS/RUBY/StockTracker/vendor/cache/ruby/2.3.0/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /mnt/c/PROJECTS/RUBY/StockTracker/vendor/cache/ruby/2.3.0/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -m 0755 websocket_mask.so ./.gem.20180917-520-n6f2k2
