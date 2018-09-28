@@ -437,6 +437,27 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+      <library name="domain_name (vbundled(0.5.20180417)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/domain_name-0.5.20180417/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/domain_name-0.5.20180417/data" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/domain_name-0.5.20180417/test" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/domain_name-0.5.20180417/tool" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/domain_name-0.5.20180417/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/domain_name-0.5.20180417/data" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/domain_name-0.5.20180417/test" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/domain_name-0.5.20180417/tool" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/domain_name-0.5.20180417/data" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/domain_name-0.5.20180417/test" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/domain_name-0.5.20180417/tool" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
       <library name="erubi (vbundled(1.7.1)) [path][gem]" type="ruby">
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/erubi-1.7.1/lib" />
@@ -480,6 +501,23 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+      <library name="font-awesome-rails (vbundled(4.7.0.4)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/font-awesome-rails-4.7.0.4/app" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/font-awesome-rails-4.7.0.4/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/font-awesome-rails-4.7.0.4/test" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/font-awesome-rails-4.7.0.4/app" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/font-awesome-rails-4.7.0.4/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/font-awesome-rails-4.7.0.4/test" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/font-awesome-rails-4.7.0.4/test" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
       <library name="globalid (vbundled(0.4.1)) [path][gem]" type="ruby">
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/globalid-0.4.1/lib" />
@@ -487,6 +525,21 @@
         <SOURCES>
           <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/globalid-0.4.1/lib" />
         </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="http-cookie (vbundled(1.0.3)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/http-cookie-1.0.3/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/http-cookie-1.0.3/test" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/http-cookie-1.0.3/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/http-cookie-1.0.3/test" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/http-cookie-1.0.3/test" />
+        </excluded>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
@@ -549,6 +602,39 @@
         </SOURCES>
         <excluded>
           <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/jquery-rails-4.3.3/test" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="json (vbundled(2.1.0)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/json-2.1.0/ext" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/json-2.1.0/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/json-2.1.0/data" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/json-2.1.0/java" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/json-2.1.0/tests" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/json-2.1.0/tools" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/json-2.1.0/diagrams" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/json-2.1.0/references" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/json-2.1.0/ext" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/json-2.1.0/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/json-2.1.0/data" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/json-2.1.0/java" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/json-2.1.0/tests" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/json-2.1.0/tools" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/json-2.1.0/diagrams" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/json-2.1.0/references" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/json-2.1.0/ext" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/json-2.1.0/data" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/json-2.1.0/java" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/json-2.1.0/tests" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/json-2.1.0/tools" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/json-2.1.0/diagrams" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/json-2.1.0/references" />
         </excluded>
       </library>
     </orderEntry>
@@ -662,6 +748,39 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+      <library name="mime-types (vbundled(3.2.2)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/mime-types-3.2.2/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/mime-types-3.2.2/test" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/mime-types-3.2.2/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/mime-types-3.2.2/test" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/mime-types-3.2.2/test" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mime-types-data (vbundled(3.2018.0812)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/mime-types-data-3.2018.0812/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/mime-types-data-3.2018.0812/data" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/mime-types-data-3.2018.0812/types" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/mime-types-data-3.2018.0812/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/mime-types-data-3.2018.0812/data" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/mime-types-data-3.2018.0812/types" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/mime-types-data-3.2018.0812/data" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/mime-types-data-3.2018.0812/types" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
       <library name="mimemagic (vbundled(0.3.2)) [path][gem]" type="ruby">
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/mimemagic-0.3.2/lib" />
@@ -762,6 +881,24 @@
         <SOURCES>
           <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/multi_json-1.13.1/lib" />
         </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="netrc (vbundled(0.11.0)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/netrc-0.11.0/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/netrc-0.11.0/data" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/netrc-0.11.0/test" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/netrc-0.11.0/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/netrc-0.11.0/data" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/netrc-0.11.0/test" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/netrc-0.11.0/data" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/netrc-0.11.0/test" />
+        </excluded>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
@@ -1031,6 +1168,24 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+      <library name="rest-client (vbundled(2.0.2)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/rest-client-2.0.2/bin" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/rest-client-2.0.2/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/rest-client-2.0.2/spec" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/rest-client-2.0.2/bin" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/rest-client-2.0.2/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/rest-client-2.0.2/spec" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/rest-client-2.0.2/bin" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/rest-client-2.0.2/spec" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
       <library name="ruby_dep (vbundled(1.5.0)) [path][gem]" type="ruby">
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/ruby_dep-1.5.0/lib" />
@@ -1192,6 +1347,21 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+      <library name="stock_quote (vbundled(2.0.0)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/stock_quote-2.0.0/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/stock_quote-2.0.0/spec" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/stock_quote-2.0.0/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/stock_quote-2.0.0/spec" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/stock_quote-2.0.0/spec" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
       <library name="thor (vbundled(0.20.0)) [path][gem]" type="ruby">
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/thor-0.20.0/bin" />
@@ -1319,6 +1489,39 @@
         <SOURCES>
           <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/uglifier-4.1.18/lib" />
         </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="unf (vbundled(0.1.4)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/unf-0.1.4/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/unf-0.1.4/test" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/unf-0.1.4/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/unf-0.1.4/test" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/unf-0.1.4/test" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="unf_ext (vbundled(0.0.7.5)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/unf_ext-0.0.7.5/ext" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/unf_ext-0.0.7.5/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/unf_ext-0.0.7.5/test" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/unf_ext-0.0.7.5/ext" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/unf_ext-0.0.7.5/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/unf_ext-0.0.7.5/test" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/unf_ext-0.0.7.5/ext" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/unf_ext-0.0.7.5/test" />
+        </excluded>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
